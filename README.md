@@ -1,18 +1,22 @@
-## Getting Started
+## Calculadoras Basicas 🌸
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**`Sobre 📌`**
 
-## Folder Structure
+Um Campeonato de Kart será realizada na cidade de São Paulo nossa tarefa será fazer o cadastro dos pilotos, que deve conter as seguintes informações:
 
-The workspace contains two folders by default, where:
+1.nome do atleta;
+2.Equipe que representa;
+3.Idade;
+4.Número do seu kart;
+5.Número de pontos no campeonato;
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Além disso, os usuários da lista de atletas também deverão poder edita-la.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Resumo 🧮
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Criei um array de objetos para:
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1.Cadastrar os pilotos;
+2.Ordenar;
+3.Pesquisar bináriamente e;
+4.Excluir pilotos. 
